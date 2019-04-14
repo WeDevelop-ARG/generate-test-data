@@ -26,6 +26,8 @@ many files you want to generate. By default, it'll create a single file with
 ./generate-people.js [<NUM_FILES> [<MIN_ROWS> [<MAX_ROWS>]]]
 ```
 
+#### Example
+
 Using default values:
 ```
 ./generate-people.js
